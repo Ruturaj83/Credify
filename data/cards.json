@@ -1,0 +1,42 @@
+{
+    "cards": [
+        {
+            "id": "c1",
+            "name": "Sapphire Reserve",
+            "issuer": "Chase",
+            "network": "VISA",
+            "annual_fee": 550.0,
+            "reward_rules": [
+                {
+                    "rule_id": "r1",
+                    "categories": ["Travel", "Dining"],
+                    "rate": 3.0
+                },
+                {
+                    "rule_id": "r2",
+                    "categories": ["ALL"],
+                    "rate": 1.0
+                }
+            ]
+        },
+        {
+            "id": "c2",
+            "name": "Freedom Unlimited",
+            "issuer": "Chase",
+            "network": "VISA",
+            "annual_fee": 0.0,
+            "reward_rules": [
+                {
+                    "rule_id": "r3",
+                    "categories": ["Pharmacy", "Dining"],
+                    "rate": 3.0
+                },
+                {
+                    "rule_id": "r4",
+                    "categories": ["ALL"],
+                    "rate": 1.5
+                }
+            ]
+        }
+    ]
+}

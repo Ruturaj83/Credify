@@ -1,0 +1,13 @@
+# ninja log v6
+36	1762	8039936750153034	CMakeFiles/ccims_core.dir/src/engines/LoungeEngine.cpp.obj	99735bc9a432479d
+20	1959	8039936750004921	CMakeFiles/ccims_core.dir/src/engines/RewardEngine.cpp.obj	47d75770e43d4f99
+29	1786	8039936750090104	CMakeFiles/ccims_core.dir/src/engines/StatementEngine.cpp.obj	f6cd302871866410
+58	2008	8039936750383023	CMakeFiles/ccims_core.dir/src/storage/SQLiteStorage.cpp.obj	557d8b53f6cba1ff
+44	2053	8039936750233037	CMakeFiles/ccims_core.dir/src/engines/AnalyticsEngine.cpp.obj	f4f971ef06e541bc
+11070	11718	8039936860494766	libsqlite3.a	990d6515bf466199
+51	2278	8039936750303036	CMakeFiles/ccims_core.dir/src/engines/TransactionManager.cpp.obj	c8e8a6bba233560c
+72	2821	8039936750516804	CMakeFiles/ccims_cli.dir/cli/main.cpp.obj	54c0babe22ad4f3e
+11719	11970	8039936866983224	libccims_core.a	fee7effbf54af81c
+11971	12379	8039936869501437	ccims_cli.exe	f6cd4255ce44cd48
+65	6126	8039936750443045	CMakeFiles/ccims_core.dir/src/storage/JsonConfigLoader.cpp.obj	a4626436181af6fc
+10	11067	8039936749895003	CMakeFiles/sqlite3.dir/extern/sqlite3.c.obj	8bac5c9ba90b97a7

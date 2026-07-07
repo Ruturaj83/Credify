@@ -1,0 +1,5 @@
+C:/Users/RUTURAJ CHAVDA/Downloads/CardFinder - Copy/ccims/build/CMakeFiles/sqlite3.dir
+C:/Users/RUTURAJ CHAVDA/Downloads/CardFinder - Copy/ccims/build/CMakeFiles/ccims_core.dir
+C:/Users/RUTURAJ CHAVDA/Downloads/CardFinder - Copy/ccims/build/CMakeFiles/ccims_cli.dir
+C:/Users/RUTURAJ CHAVDA/Downloads/CardFinder - Copy/ccims/build/CMakeFiles/edit_cache.dir
+C:/Users/RUTURAJ CHAVDA/Downloads/CardFinder - Copy/ccims/build/CMakeFiles/rebuild_cache.dir
